@@ -1,0 +1,7 @@
+# This code performs the multiplication of two numbers (a and b)
+# and prints the result.
+
+a = 2
+b = 3
+c = a * b
+print('Multiplication of a and b =', c)
